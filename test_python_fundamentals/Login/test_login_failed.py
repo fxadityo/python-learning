@@ -1,4 +1,4 @@
-from Login.login import login
+from login import login
 
 def test_login_failed():
     result = login("admin", "WrongPassword")
