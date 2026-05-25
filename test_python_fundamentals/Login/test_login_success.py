@@ -1,4 +1,4 @@
-from login import login
+from Login.login import login
 
 def test_login_success():
     result = login("admin", "12345678")
