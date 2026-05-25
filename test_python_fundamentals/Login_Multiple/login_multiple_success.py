@@ -3,7 +3,7 @@ def login_multiple(data):
     valid_users = [    
         {"username": "admin1", "password": "password1"}, # Password Benar
         {"username": "admin2", "password": "password2"}, # Password Benar
-        {"username": "admin3", "password": "password3"} # Password Benar
+        {"username": "admin3", "password": "password3"}  # Password Benar
     ]
 
     results = []

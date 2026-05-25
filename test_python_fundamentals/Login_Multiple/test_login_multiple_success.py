@@ -1,4 +1,4 @@
-from Login_Multiple.login_multiple import login_multiple
+from login_multiple_success import login_multiple
 
 def test_login_multiple_success():
     
